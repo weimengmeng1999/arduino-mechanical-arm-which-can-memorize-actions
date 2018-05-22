@@ -1,10 +1,4 @@
-/*
 
-web site : http://www.7gp.cn
-
-pins: 
-11/10/9/5 : Servo base/left/right/gripper
-*/
 #include <Servo.h> 
 #include <SoftwareSerial.h>
 
